@@ -1,0 +1,104 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "displayName": "John D.",
+      "location": "New York",
+      "department": "Engineering",
+      "jobTitle": "Software Engineer",
+      "workEmail": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "displayName": "Jane S.",
+      "location": "San Francisco",
+      "department": "Marketing",
+      "jobTitle": "Marketing Manager",
+      "workEmail": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "displayName": "Alice J.",
+      "location": "Chicago",
+      "department": "Finance",
+      "jobTitle": "Financial Analyst",
+      "workEmail": "alice.johnson@example.com"
+    },
+    {
+      "id": 4,
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "displayName": "Bob B.",
+      "location": "Seattle",
+      "department": "HR",
+      "jobTitle": "HR Specialist",
+      "workEmail": "bob.brown@example.com"
+    },
+    {
+      "id": 5,
+      "firstName": "Charlie",
+      "lastName": "Davis",
+      "displayName": "Charlie D.",
+      "location": "Austin",
+      "department": "Sales",
+      "jobTitle": "Sales Manager",
+      "workEmail": "charlie.davis@example.com"
+    },
+    {
+      "id": 6,
+      "firstName": "David",
+      "lastName": "Evans",
+      "displayName": "David E.",
+      "location": "Boston",
+      "department": "Engineering",
+      "jobTitle": "DevOps Engineer",
+      "workEmail": "david.evans@example.com"
+    },
+    {
+      "id": 7,
+      "firstName": "Eva",
+      "lastName": "Green",
+      "displayName": "Eva G.",
+      "location": "Denver",
+      "department": "Product",
+      "jobTitle": "Product Manager",
+      "workEmail": "eva.green@example.com"
+    },
+    {
+      "id": 8,
+      "firstName": "Frank",
+      "lastName": "Hill",
+      "displayName": "Frank H.",
+      "location": "Miami",
+      "department": "Support",
+      "jobTitle": "Customer Support",
+      "workEmail": "frank.hill@example.com"
+    },
+    {
+      "id": 9,
+      "firstName": "Grace",
+      "lastName": "Ivy",
+      "displayName": "Grace I.",
+      "location": "Los Angeles",
+      "department": "Engineering",
+      "jobTitle": "Frontend Developer",
+      "workEmail": "grace.ivy@example.com"
+    },
+    {
+      "id": 10,
+      "firstName": "Henry",
+      "lastName": "Jones",
+      "displayName": "Henry J.",
+      "location": "Houston",
+      "department": "Engineering",
+      "jobTitle": "Backend Developer",
+      "workEmail": "henry.jones@example.com"
+    }
+  ]
+}
